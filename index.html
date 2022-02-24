@@ -4,12 +4,14 @@
 <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="./assets/css/style.css">
-        <title>website</title>
+        <title>Horiseon website</title>
 </head>
     
 <body>
      <div class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
+
+        <!-- Below, the h1 header tags needed to be inside of span class to display correctly and not being broken up -->
+        <span class="seo"><h1>Horiseon</h1></span>
         <div>
             <ul>
                 <li>
@@ -30,6 +32,7 @@
         <!-- search-engine optimization did not have a div id= so link to that did not work -->
         <!-- I added a div id= to it -->
         <!-- I did not cosolidated the div id= tags because otherwise the links would not jump to specific sections -->
+
         <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Search Engine Optimization" />
             <h2>Search Engine Optimization</h2>
@@ -52,6 +55,8 @@
             </p>
         </div>
     </div>
+
+    <!-- I added alt tags to each benefit class so that readers can know what is image if image does not load -->
     <div class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -74,9 +79,11 @@
         </div>
     </div>
     <div class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+
+        <!-- I felt that the copyright print should be smaller with a h4 tag -->
+        <h4>Made with ❤️️ by Horiseon</h4>
         <p>
-            &copy; 2019 Horiseon Social Solution Services, Inc.
+           <h5>&copy; 2019 Horiseon Social Solution Services, Inc.</h5> 
         </p>
     </div>
 </body>
