@@ -1,29 +1,32 @@
+/* # Unit1-Code-Refactor*/
+/* The star is a global selector, it gives universal box sizing, padding, and margin for webpage*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* body is given a background color for whole webpage */
 body {
     background-color: #d9dcd6;
 }
-
+/* The top header has a padding of 20 pixels, font family and blue gray background color and white text  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* The header heading h1 is an inline block with font size of 48 pixels */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* The header h1 seo class is a span style that makes the text color in the webpage heading a lighter white color */
+/* This makes the lettering seo stand out in the heading h1 */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,23 +34,21 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*  */
 .header div ul {
     list-style-type: none;
 }
-
+/*  */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* The a tag list of properties make the links text color white with no text decoration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
-
-
+/* the hero class references the oversize prominent banner  */
 .hero {
     height: 800px;
     width: 100%;
@@ -110,7 +111,7 @@ p {
     background-color: #2589bd;
 }
 
-/* consolidated benefits for lead generatiom, brand awarness and cost management */
+/* I consolidated benefits for lead generatiom, brand awarness and cost management */
 /* used benefits-lead as new name */
 .benefit-lead {
     margin-bottom: 32px;
