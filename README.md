@@ -3,10 +3,33 @@
 
 ### User Story
 
-<!-- This webpage is a marketing page and has a simple design with images as placeholders and three navidgation links at the top that jump down and target each image within the page.  The heading has a special tag that makes seo of the title a different color within the word Horiseon. The page has a neutral white background color. The top of the page is an image of a modern business setting with people sitting around a work table. Below the image, the content is a section to the left that is linked down from the navigattion bar to Search Optimization and an image of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The text in the box is colored white with the blue background similar to the rest of the sections on the page.  The page has a sidebar colored in light blue with white text.  It has parts that has sections that include Lead Generation, Cost Management, down to Brand Awareness sections with each having component text that describes them.  The page has a neutral white background color.  -->
+<!-- This webpage is a marketing page and has a simple design with images as placeholders and three navidgation links at the top that jump down and target each image within the page.  The top heading area is a bluehish gray with large white text with links down to the main section on the left side of the page. The name of the company, Horiseon has larger text. The 'SEO' of the title is a different gracolor within the word Horiseon. Just down from the top heading area is an image of a modern business setting with people sitting around a work table. 
+
+The content's background has a neutral white background color.  Each section has a light blue background and white text and padding on each side. Below the primary image, is the content section
+
+The content in the main section to the left is linked down from the navigation bar.  Each of the segments are padded with a border to separate them and colored a light blue. The first segment is titled Search Optimization with an image of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The text in the box is colored white with the blue background similar to the rest of the sections on the page. The next segment below is titled Online Reputation management with text describing being on the internet and having control over what people see on your webpage. The image in that segment is of a laptop on a wood table showing a picture that says reputation.  The last part of the content is labeled Social Media Marketing.
+
+To the right of the main sedtion is a sidebar.  The page has a sidebar colored in light blue with white text.  It has parts that has sections that include Lead Generation and underneath Cost Management, down to Brand Awareness with each segment having component text that describes them.   
+
+Lastly the is a copyright text in smaller text to end the page. 
+
+It is not in responsive design, meaning that it does not look as well with smaller devices just on desktops like a laptop or computer-
+
+The site follows accesibility standards that allows for screen readers to read the alternative text for images.->
 
 
 ### Acceptance Criteria
+
+<!-- 1. When I view source code it has semantic HTML elements -->
+<!-- 2. When I view the structure of HTML elements, I find that elements follow      a logical structure independent of styling and positioning. 
+<!-- 3. When I view the image elements there are accessible alt attributes -->
+<!-- 4. When I vied the heading atributes they fall in sequential order-->
+<!-- 5. When I view the title element then I find a concise, descriptive title -->
+<!-- 6. The application's links all funciton correctly -->
+<!-- 8. The application's CSS selectors and properties are consolidated and organized to follow semantic structure -->
+<!-- 9. The application's CSS is properly  -->
+<!-- 10. The site follows accesibility standards that allows for screen readers to read the alternative text for images. -->
+<!-- 11. The site is optimized for search engines -->
 
 
 ### Review
@@ -108,14 +131,9 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Visual Studio Code ](https://code.visualstudio.com/)
+* [Web Acessibility Extension](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -124,8 +142,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+I set up this project by making a new repository called Unit1-Code-Refactor at Git Hub and cloned a local copy using my Terminal to my desktop.  I then opened a new window in Visual Studio Code to get it up and running.  I copied the develop fles to the folder on desktop.  I am working on the index.html, CSS style sheet, and the README.md files.
+
 
 ### Prerequisites
 
