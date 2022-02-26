@@ -1,5 +1,5 @@
 /* # Unit1-Code-Refactor*/
-/* The star is a global selector, it gives universal box sizing, padding, and margin for webpage*/
+/* The star is a global selector, it gives the webpage a universal box sizing, padding, and margin for webpage*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,12 +16,12 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* The header heading h1 is an inline block with font size of 48 pixels */
+/* The header heading h1 is an inline block with a font size of 48 pixels */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* The header h1 seo class is a span style that makes the text color in the webpage heading a lighter white color */
+/* The header h1 seo class is a span style that makes the text color in the webpage heading a grayish white color */
 /* This makes the lettering seo stand out in the heading h1 */
 .header h1 .seo {
     color: #d9dcd6;
@@ -99,7 +99,9 @@ p {
     font-size: 36px;
 }
 
-
+/* The benifits class gives whole benefits section the properties of margin-right to push the items to a side bar */
+/* The padding is from the right edge, the float is right, the total width and height is 20% height and 100% to go entire length of */
+/*  with a font family of Gill Sans and background color of light blue */
 .benefits {
     margin-right: 20px;
     padding: 20px;

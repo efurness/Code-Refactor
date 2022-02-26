@@ -1,11 +1,16 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+# Unit1-Code-Refactor
+# This is an On-the-job ticket
+
+### User Story
+
+<!-- This webpage is a marketing page and has a simple design with images as placeholders and three navidgation links at the top that jump down and target each image within the page.  The heading has a special tag that makes seo of the title a different color within the word Horiseon. The page has a neutral white background color. The top of the page is an image of a modern business setting with people sitting around a work table. Below the image, the content is a section to the left that is linked down from the navigattion bar to Search Optimization and an image of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The text in the box is colored white with the blue background similar to the rest of the sections on the page.  The page has a sidebar colored in light blue with white text.  It has parts that has sections that include Lead Generation, Cost Management, down to Brand Awareness sections with each having component text that describes them.  The page has a neutral white background color.  -->
+
+
+### Acceptance Criteria
+
+
+### Review
+
 
 
 
@@ -82,7 +87,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Horiseon Marketing website Screen Shot][product-screenshot]](https://github.com/efurness/Unit1-Code-Refactor.git)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -210,9 +215,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Ellen Furness - [Ellen.Furness@du.edu]
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/efurness/Unit1-Code-Refactor.git](git@github.com:efurness/Unit1-Code-Refactor.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -221,33 +226,22 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+List of resources and websites
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
+* [Choose an Open Source License](https://choosealicense.com/licenses/gpl-3.0/)
+* [MDN docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+* [W3Schools](https://www.w3schools.com/)
+* [How to Organize CSS](hhttps://9elements.com/css-rule-order/)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [How to Organize CSS](hhttps://9elements.com/css-rule-order/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- LINKS & IMAGES from DU virtual Gitlab-->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+
+
+[Read Me Template]: https://github.com/othneildrew/Best-README-Template.git
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/
