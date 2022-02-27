@@ -5,13 +5,13 @@
 
 The site follows accesibility standards that allows for screen readers to read the alternative text for images.
 
-This webpage is a marketing page and has a simple design with images as placeholders and three navidgation links at the top that jump down and target each image within the page.  The top heading area is a bluehish gray with large white text with links down to the main section on the left side of the page. The name of the company, Horiseon has larger text. The 'SEO' of the title is a different gracolor within the word Horiseon. Just down from the top heading area is an image of a modern business setting with people sitting around a work table. 
+This webpage is a marketing page and has a simple design with images as placeholders and three navidgation links at the top that jump down and target each section and image within the page.  The top heading area is a bluehish gray with large white text with links down to the main section on the left side of the page. The name of the company, Horiseon has larger text. The 'SEO' of the title is a different grey color within the word Horiseon. Just down from the top heading area is an image of a modern business setting with people sitting around a work table. 
 
-The content's background has a neutral white background color.  Each section has a light blue background and white text and padding on each side. Below the primary image, is the content section
+The content's background has a neutral white background color.  Each section has a light blue background, white text and padding on each side. Below the primary image is the content section
 
- The first segment is titled Search Optimization with an image of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The next segment below is titled Online Reputation management with text describing being on the internet and having control over what people see on your webpage. The image in that segment is of a laptop on a wood table showing a picture that says reputation.  The last part of the content is labeled Social Media Marketing.
+ The first segment is titled Search Optimization with an image on the left of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The next segment below is titled Online Reputation management with text describing being on the internet and having control over what people see on your webpage. The image in that segment is of a laptop on a wood table showing a picture that says reputation.  The last part of the content is labeled Social Media Marketing.
 
-To the right of the main sedtion is a sidebar.  The page has a sidebar, also colored in light blue with white text.  It has segments that include Lead Generation and underneath Cost Management, down to Brand Awareness with each segment having component text that describes them.   
+To the right of the main section is a sidebar, also colored in light blue with white text.  It has segments that include Lead Generation and underneath Cost Management, down to Brand Awareness with each segment having component text that describes them.   
 
 Lastly, the copyright text is in smaller text to end the page. 
 
