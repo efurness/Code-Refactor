@@ -9,19 +9,15 @@ This webpage is a marketing page and has a simple design with images as placehol
 
 The content's background has a neutral white background color.  Each section has a light blue background and white text and padding on each side. Below the primary image, is the content section
 
- Each of the segments are padded with a border to separate them and colored a light blue. The first segment is titled Search Optimization with an image of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The next segment below is titled Online Reputation management with text describing being on the internet and having control over what people see on your webpage. The image in that segment is of a laptop on a wood table showing a picture that says reputation.  The last part of the content is labeled Social Media Marketing.
+ The first segment is titled Search Optimization with an image of a student's table with a computer, a pencil, pens, coffee and a notepad with SEO on it. The next segment below is titled Online Reputation management with text describing being on the internet and having control over what people see on your webpage. The image in that segment is of a laptop on a wood table showing a picture that says reputation.  The last part of the content is labeled Social Media Marketing.
 
-To the right of the main sedtion is a sidebar.  The page has a sidebar colored in light blue with white text.  It has parts that has sections that include Lead Generation and underneath Cost Management, down to Brand Awareness with each segment having component text that describes them.   
+To the right of the main sedtion is a sidebar.  The page has a sidebar, also colored in light blue with white text.  It has segments that include Lead Generation and underneath Cost Management, down to Brand Awareness with each segment having component text that describes them.   
 
-Lastly the copyright text is in smaller text to end the page. 
+Lastly, the copyright text is in smaller text to end the page. 
 
 It is not in responsive design, meaning that it does not look as well with smaller devices just on desktops like a laptop or computer.
 
-
-
-
 ### How to
-
 
 Instructions to create project and deploy it to GitHub Pages:
 
@@ -43,7 +39,7 @@ Refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5r
 
 [Deployed Application]  https://efurness.github.io/Unit1-Code-Refactor/
 [GitHub Repository] https git@github.com:efurness/Unit1-Code-Refactor.git
-[Project image screenshot] [./assets/images/Horizon_webpage]
+[Project image screenshot] ![screenshot](./assets/images/Horiseon_website.png "Horiseon website") 
 
 ## Contact
 
