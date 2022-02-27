@@ -16,17 +16,18 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* The header heading h1 is an inline block with a font size of 48 pixels */
+/* The header h1 has an inline block propery that sets the height and width of an element*/
+/* and displays navigation horizontally */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* The header h1 seo class is a span style that makes the text color in the webpage heading a grayish white color */
-/* This makes the lettering seo stand out in the heading h1 */
+/* The header h1 seo class is a span style that makes the text colorw within the heading a grayish white color */
+/* This makes the lettering "SEO" stand out in the heading h1 */
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*  */
+/* The header div tag gives a padding to the top and a margin and float right */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,16 +35,17 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*  */
+/* The list-style-type property is used to specify the type of a list item element. */
+/* here the value is none meaning it has no type such as bullet points*/
 .header div ul {
     list-style-type: none;
 }
-/*  */
+/* displays navigation horizontally */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* The a tag list of properties make the links text color white with no text decoration */
+/* The a tag make the links a text color of white, and with no text decoration like underline or dotted underline */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -57,7 +59,17 @@ a {
     background-size: cover;
     background-position: center;
 }
+/* Below the hero is the content of the page with a width of 75% of the page */
+/* Again the display is inline block */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 
+}
+/* Float left and right determines where an image floats inside a column of text, for example text wrapping right of left of the image */
+/* In search engine optimization the image is to the left, and in Reputation Management the image is to the right*/
+/* Finally in social media marketing the image is to the right, all with margins of 25 pixels. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,18 +80,13 @@ a {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 /* I brought down paragraph tag under content because that's when the tag appears in html */
-
+/* the paragraphs have a font sizr of 16 pixels */
 p {
     font-size: 16px;
 }
 
-/* I consolidated each class for search-engine optimization */
+/* I consolidated each class and named them all search-engine optimization since that is what appears first */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -102,6 +109,7 @@ p {
 /* The benifits class gives whole benefits section the properties of margin-right to push the items to a side bar */
 /* The padding is from the right edge, the float is right, the total width and height is 20% height and 100% to go entire length of */
 /*  with a font family of Gill Sans and background color of light blue */
+/* The benefits makes up a sidebar that is floated to the right side of the page and the column starts with Lead Generation */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -114,7 +122,7 @@ p {
 }
 
 /* I consolidated benefits for lead generatiom, brand awarness and cost management */
-/* used benefits-lead as new name */
+/* I used benefit-lead as new name for each class */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -132,7 +140,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* The footer defines the bottom of the page, padding of 30 pixels, a font family and aligned center */
+/* The footer element contains authorship and copyright information */
 .footer {
     padding: 30px;
     clear: both;
@@ -140,6 +149,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
+.footer h4 {
+    font-size: 15px;
 }

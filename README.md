@@ -37,8 +37,8 @@ Refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5r
 
 ## Review
 
-[Deployed Application]  https://efurness.github.io/Unit1-Code-Refactor/
-[GitHub Repository] https git@github.com:efurness/Unit1-Code-Refactor.git
+[Deployed Application]  (https://efurness.github.io/Unit1-Code-Refactor/)
+[GitHub Repository] git@github.com:efurness/Unit1-Code-Refactor.git
 [Project image screenshot] ![screenshot](./assets/images/Horiseon_website.png "Horiseon website") 
 
 ## Contact
