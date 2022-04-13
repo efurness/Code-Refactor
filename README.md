@@ -32,7 +32,7 @@ Refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5r
 
 ## Contact
 
-Ellen Furness - [Ellen.Furness@du.edu]
+Ellen F
 
 ## Acknowledgments
 
