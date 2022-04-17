@@ -1,10 +1,10 @@
-# Unit1-Code-Refactor
+# Code-Refactor
 # This is an On-the-job ticket
 
 ### Description -- For User
 
 
-This webpage is a marketing page and has a simple design with images as placeholders and three navidgation links at the top that jump down and target each section and image within the page.  
+This Unit involved refactoring a webpage, improving links and id's in the HTML and in the CSS, making it consise and ordering the styles in the CSS to follow the order of the HTML and removing extraneous information.  A good start but it would have been nice and interesting to refactor a more complicated site, though it was nice to work with columns and rows which is now improved with Bootstrap which are using now.  It's good to go over this homework to see how our skills are developed in css and html.
 
 ### How to
 
@@ -26,13 +26,13 @@ Refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5r
 
 ## Review
 
-[Deployed Application]  (https://efurness.github.io/Unit1-Code-Refactor/)
-[GitHub Repository] git@github.com:efurness/Unit1-Code-Refactor.git
+[Deployed Application]  (https://efurness.github.io/Code-Refactor/)
+[GitHub Repository] git@github.com:efurness/Code-Refactor.git
 [Project image screenshot] ![screenshot](./assets/images/Horiseon_website.png "Horiseon website") 
 
 ## Contact
 
-Ellen F
+Ellen.Furness@du.edu
 
 ## Acknowledgments
 
