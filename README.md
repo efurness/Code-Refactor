@@ -4,7 +4,7 @@
 ### Description -- For User
 
 
-This Unit involved refactoring a webpage, improving links and id's in the HTML and in the CSS, making it consise and ordering the styles in the CSS to follow the order of the HTML and removing extraneous information.  A good start but it would have been nice and interesting to refactor a more complicated site, though it was nice to work with columns and rows which is now improved with Bootstrap which are using now.  It's good to go over this homework to see how our skills are developed in css and html.
+This Unit involved refactoring a webpage, improving links and id's in the HTML and in the CSS, making it consise and ordering the styles in the CSS to follow the order of the HTML and removing extraneous information and styles but putting the header elements like h1, h2 in same row to target them on the page using similar fonts that were not repetitive.  A good start but it would have been nice and interesting to refactor a more complicated site, though it was nice to work with columns and rows which is now improved with Bootstrap which are using now.  It's good to go over this homework to see how our skills have developed in css and html 2 months afterward.  Also, this is where we learned GitHub!
 
 ### How to
 
@@ -34,7 +34,7 @@ Refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5r
 
 Ellen.Furness@du.edu
 
-## Acknowledgments
+## Acknowledgements
 
 List of resources and websites
 
